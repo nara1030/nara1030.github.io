@@ -48,3 +48,5 @@ function startTime() {
 
     setTimeout(startTime, 500);
 }
+
+startTime();
