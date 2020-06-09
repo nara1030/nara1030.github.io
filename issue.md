@@ -12,13 +12,19 @@
 	3. [JavaScript](#JavaScript)
 3. [기능 추가](#기능-추가)
 	1. [시계](#시계)
+	2. [댓글](#댓글)
 
 ## Github
 ### 블로그 만들기
-* user pages / project pages
+* [x] user pages / project pages
 	* [github에서 접근할수 있는 웹페이지 만들기](https://blog.outsider.ne.kr/593)
 	* [What are Github Project Pages and how to use them?](https://stackoverflow.com/questions/41228787/what-are-github-project-pages-and-how-to-use-them)
-* Jekyll
+	* [docs](https://pages.github.com/)
+* [ ] Jekyll
+
+
+- - -
+* [블로그 비교: Brunch, Tistory, Github Page](https://cheese10yun.github.io/blog-start/)
 
 ##### [목차로 이동](#목차)
 
@@ -64,5 +70,16 @@
 * [digital clock](https://www.codexworld.com/create-digital-clock-with-date-javascript/)
 * [analog clock](https://www.w3schools.com/graphics/canvas_clock_start.asp)
 * https://codepen.io/mselmany/pen/vBeLG
+
+##### [목차로 이동](#목차)
+
+### 댓글
+* disqus
+	* [disqus-1](https://devmjun.github.io/archive/addComments)
+	* [disqus-2](http://dudmy.net/etc/2016/07/21/disqus-setting/)
+* etc
+	* [A new comments system for my static Jekyll site](https://aristath.github.io/blog/static-site-comments-using-github-issues-api)
+	* [GitHub hosted comments for GitHub hosted blogs](http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html)
+	* [Adding comments in blog posts on github-pages](https://stackoverflow.com/questions/59096243/adding-comments-in-blog-posts-on-github-pages)
 
 ##### [목차로 이동](#목차)
