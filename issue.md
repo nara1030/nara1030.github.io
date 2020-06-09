@@ -4,6 +4,8 @@
 - - -
 ## 목차
 1. [Github 블로그 만들기](#Github-블로그-만들기)
+	1. [블로그 만들기](#블로그-만들기)
+	2. [Git](#Git)
 2. [참고사이트 분석](#참고사이트-분석)
 	1. [HTML](#HTML)
 	2. [CSS](#CSS)
@@ -11,11 +13,18 @@
 3. [기능 추가](#기능-추가)
 	1. [시계](#시계)
 
-## Github 블로그 만들기
+## Github
+### 블로그 만들기
 * user pages / project pages
 	* [github에서 접근할수 있는 웹페이지 만들기](https://blog.outsider.ne.kr/593)
 	* [What are Github Project Pages and how to use them?](https://stackoverflow.com/questions/41228787/what-are-github-project-pages-and-how-to-use-them)
 * Jekyll
+
+##### [목차로 이동](#목차)
+
+### Git
+* [브랜치 생성과 체크아웃](https://mylko72.gitbooks.io/git/content/branch/checkout.html)
+* [VSCODE와 Git 연동하기](https://potensj.tistory.com/55)
 
 ##### [목차로 이동](#목차)
 
