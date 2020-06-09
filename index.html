@@ -1,20 +1,30 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <title>Entrance</title>
-    
+
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+        integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
     <link rel='stylesheet' href='stylesheets/style.css'>
+    <link rel='stylesheet' href='stylesheets/digital_clock.css'>
 </head>
+
 <body>
     <div class="wrapper">
         <header>
+            <h1>Welcome</h1>
             <!-- <img src="images/hje.jpg"> -->
-            
+            <div id="clockdate">
+                <div class="clockdate-wrapper">
+                    <div id="clock"></div>
+                    <div id="date"></div>
+                </div>
+            </div>
             <p></p>
         </header>
         <section>
@@ -22,7 +32,28 @@
                 Profile
             </h2>
             <ul>
-                <li>github: https://github.com/nara1030</li>
+                <li>Java Developer, Seoul</li>
+                <li>Experience
+                    <ul>
+                        <li>2017.06~2019.09: Fisco&Bizpark</li>
+                    </ul>
+                </li>
+                <li>Education
+                    <ul>
+                        <li>2007.03~2015.08: Bachelor of Physics, Sungkyunkwan University</li>
+                    </ul>
+                </li>
+                <li>Technical Skills
+                    <ul>
+                        <li>Language: Java, JavaScript</li>
+                    </ul>
+                </li>
+            </ul>
+            <h3>
+                Contact
+            </h3>
+            <ul>
+                <li>github: github.com/nara1030</li>
                 <li>email: nara1030@naver.com</li>
             </ul>
             <hr>
@@ -54,9 +85,10 @@
                 <li>
                     <a href="./network">Network</a>
                 </li>
-            </ul>    
+            </ul>
         </section>
     </div>
-    <!-- <script src='main.js'></script> -->
+    <script src='javascript/digital_clock.js'></script>
 </body>
+
 </html>

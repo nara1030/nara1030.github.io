@@ -10,6 +10,7 @@
 		* https://stackoverflow.com/questions/5275410/what-is-the-correct-way-to-do-a-css-wrapper
 	5. `header` & `section`
 		* https://webdir.tistory.com/310
+		* [block vs inline](https://developer.mozilla.org/ko/docs/Web/HTML/Block-level_elements)
 	6. .
 2. CSS
 	1. 좌우 분할
@@ -18,6 +19,9 @@
 	2. .
 3. 기능
 	1. 달력
-		* https://blog.edit.kr/entry/Bootstrap-4-%EB%8B%AC%EB%A0%A5-datetimepicker-Bootstrap-3%EB%B2%84%EC%A0%84-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EB%B2%84%EC%A0%84-%EC%9D%B8%EA%B8%B0-%EB%8B%AC%EB%A0%A5
+		* [bootstrap4-datetimepicker](https://blog.edit.kr/entry/Bootstrap-4-%EB%8B%AC%EB%A0%A5-datetimepicker-Bootstrap-3%EB%B2%84%EC%A0%84-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EB%B2%84%EC%A0%84-%EC%9D%B8%EA%B8%B0-%EB%8B%AC%EB%A0%A5)
+		* [digital clock](https://www.codexworld.com/create-digital-clock-with-date-javascript/)
+		* [analog clock](https://www.w3schools.com/graphics/canvas_clock_start.asp)
+		* https://codepen.io/mselmany/pen/vBeLG
 	2. .
 4. .
