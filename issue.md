@@ -21,7 +21,7 @@
 	* [What are Github Project Pages and how to use them?](https://stackoverflow.com/questions/41228787/what-are-github-project-pages-and-how-to-use-them)
 	* [docs](https://pages.github.com/)
 * [ ] Jekyll
-	* [GitHub 블로그 기본 설정하기](https://devinlife.com/howto%20github%20pages/blog-config/)
+	* [GitHub 블로그 따라하기](https://devinlife.com/howto/)
 	* [쉽고 빠르게 수준 급의 GitHub 블로그 만들기 - jekyll remote theme으로](https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html)
 	* [docs](https://jekyllrb-ko.github.io/)
 	
