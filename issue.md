@@ -21,7 +21,10 @@
 	* [What are Github Project Pages and how to use them?](https://stackoverflow.com/questions/41228787/what-are-github-project-pages-and-how-to-use-them)
 	* [docs](https://pages.github.com/)
 * [ ] Jekyll
-
+	* [GitHub 블로그 기본 설정하기](https://devinlife.com/howto%20github%20pages/blog-config/)
+	* [쉽고 빠르게 수준 급의 GitHub 블로그 만들기 - jekyll remote theme으로](https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html)
+	* [docs](https://jekyllrb-ko.github.io/)
+	
 
 - - -
 * [블로그 비교: Brunch, Tistory, Github Page](https://cheese10yun.github.io/blog-start/)
@@ -29,8 +32,11 @@
 ##### [목차로 이동](#목차)
 
 ### Git
-* [브랜치 생성과 체크아웃](https://mylko72.gitbooks.io/git/content/branch/checkout.html)
-* [VSCODE와 Git 연동하기](https://potensj.tistory.com/55)
+* gh-pages
+	* [브랜치 생성과 체크아웃](https://mylko72.gitbooks.io/git/content/branch/checkout.html)
+	* [VSCODE와 Git 연동하기](https://potensj.tistory.com/55)
+* 협업
+	* [Pull Request 이해하기](https://velog.io/@zansol/Pull-Request-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
 ##### [목차로 이동](#목차)
 
