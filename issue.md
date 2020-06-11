@@ -13,6 +13,7 @@
 3. [기능 추가](#기능-추가)
 	1. [시계](#시계)
 	2. [댓글](#댓글)
+	3. [관리](#관리)
 
 ## Github
 ### 블로그 만들기
@@ -87,5 +88,13 @@
 	* [A new comments system for my static Jekyll site](https://aristath.github.io/blog/static-site-comments-using-github-issues-api)
 	* [GitHub hosted comments for GitHub hosted blogs](http://ivanzuzak.info/2011/02/18/github-hosted-comments-for-github-hosted-blogs.html)
 	* [Adding comments in blog posts on github-pages](https://stackoverflow.com/questions/59096243/adding-comments-in-blog-posts-on-github-pages)
+* ouath
+	* [OAuth와 춤을](https://d2.naver.com/helloworld/24942)
+	* [OAuth란?](https://minwan1.github.io/2018/02/24/2018-02-24-OAuth/)
+
+##### [목차로 이동](#목차)
+
+### 관리
+* [GitHub로 프로젝트 관리하기 Part2 - CI & Test Coverage & Wiki](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part2-ci-test-coverage-wiki/)
 
 ##### [목차로 이동](#목차)
